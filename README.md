@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 <p align="center">
   <h3>Contacts</h3>
   <a href="https://www.linkedin.com/in/aziz-katlane/">
-  <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/ee385800-3c01-42f8-acf4-594dda5cdde8')
-/>
+    <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/ee385800-3c01-42f8-acf4-594dda5cdde8'/>
   </a>
-
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KkazeKa)](https://github.com/KkazeKa/github-readme-stats)
