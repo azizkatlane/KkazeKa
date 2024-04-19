@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 📫 E-mail : azizkatlane@gmail.com
 <p align="center">
   <a href="https://www.linkedin.com/in/aziz-katlane/">
-  <img height="50" src=![image](https://github.com/KkazeKa/KkazeKa/assets/87916759/5d18c856-613a-4fdb-ac1f-03ea1ecb33e5)
+  <img height="50" src='5296501_linkedin_network_linkedin logo_icon')
 />
   </a>
 
