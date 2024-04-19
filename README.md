@@ -9,6 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Data System Design
 - 👯 I’m looking to collaborate on Data engineering projects
 
+📫 E-mail : azizkatlane@gmail.com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KkazeKa)](https://github.com/KkazeKa/github-readme-stats)
