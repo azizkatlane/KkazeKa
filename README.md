@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 📫 E-mail : azizkatlane@gmail.com
 <p align="center">
-  <p> align="center">
+  <p align="center">
     <h3>Contacts</h3>
   </p>
   <a href="https://www.linkedin.com/in/aziz-katlane/">
