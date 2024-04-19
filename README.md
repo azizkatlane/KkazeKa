@@ -16,6 +16,7 @@ Here are some ideas to get you started:
     <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/ee385800-3c01-42f8-acf4-594dda5cdde8'/>
   </a>
 </div>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KkazeKa)](https://github.com/KkazeKa/github-readme-stats)
 
