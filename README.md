@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 🚀 Tools/programming languages that i have worked with :
 
 <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/806f863b-08ab-4946-8917-7b3b4babeefb'/>
+<img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/a3f624fd-1b2b-4baf-8e37-1cb44f7bb0d4'>
+
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KkazeKa)](https://github.com/KkazeKa/github-readme-stats)
 
