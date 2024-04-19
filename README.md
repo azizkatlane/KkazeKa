@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/a3f624fd-1b2b-4baf-8e37-1cb44f7bb0d4'>
 <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/6ed148d0-2276-4014-8b6f-fd87f86ad912' >
 <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/01e65a2a-b86d-4b1f-96d1-6a31c005737c' >
+<img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/613f6af5-6a5f-49bb-bbea-840e64d045e9' >
 
 <hr>
 
