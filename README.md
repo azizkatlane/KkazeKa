@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently majoring in a Business Intelligence Masters degree.
-- 🌱 I’m currently learning Data System Design / DE / Cloud Analytics solutions.
-- 👯 I’m looking to collaborate on Data engineering projects
+- 🌱 I’m currently learning Business Intelligence/ Data System Design / DE / Cloud Analytics solutions.
+- 👯 I’m looking to collaborate on Business Intelligence/Data engineering projects
 
 📫 E-mail : azizkatlane@gmail.com
 <div style="text-align: center;">
