@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/6ed148d0-2276-4014-8b6f-fd87f86ad912' >
 <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/01e65a2a-b86d-4b1f-96d1-6a31c005737c' >
 <img height="50" src='https://github.com/KkazeKa/KkazeKa/assets/87916759/3844178c-bf70-49c7-abbe-2acb73b0a3ad' >
-<img height="50" src='https://icons8.com/icon/69132/hadoop-distributed-file-system' >
+<img height="50" src='[https://icons8.com/icon/69132/hadoop-distributed-file-system](https://img.icons8.com/?size=100&id=69132&format=png&color=000000)' >
 <hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KkazeKa)](https://github.com/KkazeKa/github-readme-stats)
