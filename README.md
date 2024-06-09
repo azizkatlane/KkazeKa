@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="50" height="50"/> 
+<img src='https://github.com/KkazeKa/KkazeKa/assets/87916759/0712fda2-cc77-4908-b67f-d10c55053b99' alt="spark" width="50" height="50"/> 
 
   
     
