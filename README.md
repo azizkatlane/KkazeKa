@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="50" height="50"/> 
-<img src='https://github.com/KkazeKa/KkazeKa/assets/87916759/618a04a6-adb7-46c7-b500-2038d86f845f' alt="spark" width="50" height="50"/> 
+<img src='https://github.com/KkazeKa/KkazeKa/assets/87916759/618a04a6-adb7-46c7-b500-2038d86f845f' alt="spark"  height="50"/> 
 
   
     
