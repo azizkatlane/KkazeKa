@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently majoring in a Business Intelligence Masters degree.
 - 🌱 I’m currently learning Business Intelligence/ Data System Design / DE / Cloud Analytics solutions.
 - 👯 I’m looking to collaborate on Business Intelligence/Data engineering projects
+- ![image](https://github.com/KkazeKa/KkazeKa/assets/87916759/1ac80d67-ed36-4b95-87e9-d75c1d61da98) DP-900 , AI-900 , AZ-900 Certified 
 
 📫 E-mail : azizkatlane@gmail.com
 <div style="text-align: center;">
