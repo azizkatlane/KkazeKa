@@ -1,4 +1,4 @@
-<p align='center' size=20> 
+<p align='center' size=50> 
    Hi there 👋
 </p> 
 
