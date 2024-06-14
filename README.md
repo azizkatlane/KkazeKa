@@ -1,4 +1,4 @@
-<p align='center'>Hi there 👋</p> 
+<p align='center'> <h3>Hi there 👋</h3></p> 
 
 <!--
 **KkazeKa/KkazeKa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
