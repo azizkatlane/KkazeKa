@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 🚀 Tools/programming languages that i have worked with :
 
 <p align="left"> 
-    
+
+  <img src='https://github.com/user-attachments/assets/da9d1d5f-d373-4930-83f7-8c853d6ef26e' height="50"/> 
+<img src='https://github.com/user-attachments/assets/6cb94ccf-cca9-4d16-8300-1ab0b6cdd48b' height="50"/> 
  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
 <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="50" height="50"/> 
@@ -34,8 +36,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="50" height="50"/> 
-<img src='https://github.com/user-attachments/assets/da9d1d5f-d373-4930-83f7-8c853d6ef26e' height="50"/> 
-<img src='https://github.com/user-attachments/assets/6cb94ccf-cca9-4d16-8300-1ab0b6cdd48b' height="50"/> 
+
 
   
     
