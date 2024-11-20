@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="python" width="50" height="50"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="selenium" width="50" height="50"/> 
-<img src='https://github.com/KkazeKa/KkazeKa/assets/87916759/618a04a6-adb7-46c7-b500-2038d86f845f' alt="spark"  height="50"/> 
-![image](https://github.com/user-attachments/assets/00b4aa8d-04e5-4c8b-bff8-78b86d01bd98)
+<img src='https://github.com/user-attachments/assets/da9d1d5f-d373-4930-83f7-8c853d6ef26e' height="50"/> 
 
 
   
