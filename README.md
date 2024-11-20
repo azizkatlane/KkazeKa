@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizkatlane)](https://github.com/KkazeKa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizkatlane)](https://github.com/azizkatlane/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azikatlane)](https://github.com/KkazeKa/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azikatlane)](https://github.com/azizkatlane/github-readme-stats)
